@@ -1,0 +1,206 @@
+<Mirror.tk>
+    <A>
+        <aim_enable>1</aim_enable>
+        <acc_scope>1</acc_scope>
+        <lag_pred>1</lag_pred>
+        <delay_shot>1</delay_shot>
+        <acc_zeusisgay>4</acc_zeusisgay>
+        <acc_aaa>1</acc_aaa>
+        <schnellerstop>1</schnellerstop>
+        <acc_engine_prediciton>1</acc_engine_prediciton>
+        <richnblind>1</richnblind>
+        <godiefag>1</godiefag>
+        <stfudognigger>50.210972</stfudognigger>
+        <yesdeseses>45.20253</yesdeseses>
+        <yesdeseses2>50.049999</yesdeseses2>
+        <bodyaim_fake>1</bodyaim_fake>
+        <bodyaim_fakewalk>1</bodyaim_fakewalk>
+        <bodyaim_inair>1</bodyaim_inair>
+        <acc_BaimIfUnderXHealth>41.56118</acc_BaimIfUnderXHealth>
+        <acc_bigbaim>5</acc_bigbaim>
+        <headonly_if_vis>0</headonly_if_vis>
+        <tgt_hitbox_auto>0</tgt_hitbox_auto>
+        <tgt_hitscan_auto>3</tgt_hitscan_auto>
+        <auto_hitchance>29.746836</auto_hitchance>
+        <auto_minimumdamage>20.042194</auto_minimumdamage>
+        <tgt_hitbox_pistol>0</tgt_hitbox_pistol>
+        <tgt_hitscan_pistol>2</tgt_hitscan_pistol>
+        <pistol_hitchance>20.042194</pistol_hitchance>
+        <pistol_minimumdamage>10.126582</pistol_minimumdamage>
+        <tgt_hitbox_scout>0</tgt_hitbox_scout>
+        <tgt_hitscan_scout>1</tgt_hitscan_scout>
+        <scout_hitchance>74.683548</scout_hitchance>
+        <scout_minimumdamage>50</scout_minimumdamage>
+        <tgt_hitbox_awp>3</tgt_hitbox_awp>
+        <tgt_hitscan_awp>3</tgt_hitscan_awp>
+        <awp_hitchance>59.704643</awp_hitchance>
+        <awp_minimumdamage>50</awp_minimumdamage>
+        <tgt_hitbox_otr>0</tgt_hitbox_otr>
+        <tgt_hitscan_otr>2</tgt_hitscan_otr>
+        <otr_hitchance>25</otr_hitchance>
+        <otr_minimumdamage>14.978904</otr_minimumdamage>
+    </A>
+    <C>
+        <active>1</active>
+        <active>1</active>
+        <opt_box>0</opt_box>
+        <opt_name>1</opt_name>
+        <opt_hp>2</opt_hp>
+        <otr_armor>2</otr_armor>
+        <opt_info>1</opt_info>
+        <opt_bone>0</opt_bone>
+        <kysquecest>1</kysquecest>
+        <urmomsucksass>1</urmomsucksass>
+        <opt_glowz>100</opt_glowz>
+        <opt_team_glow>35.051544</opt_team_glow>
+        <opt_glowz_lcl>100</opt_glowz_lcl>
+        <ftr_all>0</ftr_all>
+        <ftr_players>1</ftr_players>
+        <ftr_enemyonly>1</ftr_enemyonly>
+        <ftr_weaps>0</ftr_weaps>
+        <ftr_nades>0</ftr_nades>
+        <ftr_c4>1</ftr_c4>
+        <asus_wall_type>0</asus_wall_type>
+        <v_spreadcrosshair>0</v_spreadcrosshair>
+        <otr_spreadcross_size>45</otr_spreadcross_size>
+        <otr_autowallcross>1</otr_autowallcross>
+        <otr_visrecoil>1</otr_visrecoil>
+        <otr_noscope>1</otr_noscope>
+        <otr_remv_zoom>1</otr_remv_zoom>
+        <otr_noflash>1</otr_noflash>
+        <otr_stolen_from_punknown_muahahaha>10</otr_stolen_from_punknown_muahahaha>
+        <otr_viewfov>75.463913</otr_viewfov>
+        <otr_fov>14.948453</otr_fov>
+        <otr_btracers>1</otr_btracers>
+        <otr_beamtime>2</otr_beamtime>
+        <otr_LBYIndicator>0</otr_LBYIndicator>
+        <otr_LCIndicator>0</otr_LCIndicator>
+        <manualaa>0</manualaa>
+        <otr_skeetpaste>1</otr_skeetpaste>
+        <otr_killfeed>1</otr_killfeed>
+        <cheatinfox>0</cheatinfox>
+        <otr_hitmarker>0</otr_hitmarker>
+        <otr_watermark>0</otr_watermark>
+        <chams_en_vis>1</chams_en_vis>
+        <chams_en_novis>1</chams_en_novis>
+        <ChamsTeamVis>0</ChamsTeamVis>
+        <chams_local>1</chams_local>
+        <chams_local_hand>0</chams_local_hand>
+        <chams_local_weapon>0</chams_local_weapon>
+        <esp_localscopedmat>2</esp_localscopedmat>
+        <esp_blendvis>100</esp_blendvis>
+        <esp_blendinvis>14.673912</esp_blendinvis>
+        <esp_teamblend>4.8913045</esp_teamblend>
+        <esp_transparency>20</esp_transparency>
+        <esp_hand_transparency>20</esp_hand_transparency>
+        <esp_gun_transparency>20</esp_gun_transparency>
+        <otr_night>0</otr_night>
+        <otr_skycustom>1</otr_skycustom>
+        <night_amm>9.782609</night_amm>
+        <otr_asusprops>100</otr_asusprops>
+        <otr_world_ent_glow>0</otr_world_ent_glow>
+    </C>
+    <F>
+        <otr_safemode>0</otr_safemode>
+        <otr_autojump>1</otr_autojump>
+        <otr_strafe>1</otr_strafe>
+        <otr_c_strafe>-1</otr_c_strafe>
+        <otr_Zstrafe>-1</otr_Zstrafe>
+        <hitmarker_sound>0</hitmarker_sound>
+        <misc_snip_cross>1</misc_snip_cross>
+        <aa_1thirpbind>1</aa_1thirpbind>
+        <aa_thirpbind>88</aa_thirpbind>
+        <multipoint_debug>0</multipoint_debug>
+        <aahelper>0</aahelper>
+        <slidewalk>1</slidewalk>
+        <DisablePostProces>1</DisablePostProces>
+        <Radar>0</Radar>
+        <misc_radar_xax1>0</misc_radar_xax1>
+        <misc_radar_yax2>0</misc_radar_yax2>
+        <misc_autojump_type>0</misc_autojump_type>
+        <misc_airduck_type>0</misc_airduck_type>
+        <aa_enable>1</aa_enable>
+        <aa_x>1</aa_x>
+        <aa_y>6</aa_y>
+        <v_standing_desync_offset>49.804348</v_standing_desync_offset>
+        <aa_y2>6</aa_y2>
+        <v_moving_desync_offset>34.673912</v_moving_desync_offset>
+        <aa_y3>6</aa_y3>
+        <v_air_desync_offset>58</v_air_desync_offset>
+        <pitch_up>0</pitch_up>
+        <freestanding>1</freestanding>
+        <disable_on_dormant>0</disable_on_dormant>
+        <b_freestanding_type>0</b_freestanding_type>
+        <freestanding_range>30</freestanding_range>
+        <fakelag_stand_val>2.0543478</fakelag_stand_val>
+        <fakelag_move_val>11.184783</fakelag_move_val>
+        <fakelag_jump_val>12.173913</fakelag_jump_val>
+        <fakelag_spike_shoot>1</fakelag_spike_shoot>
+        <fakelag_spike_peakofjump>0</fakelag_spike_peakofjump>
+        <fakelag_spike_onpeek>1</fakelag_spike_onpeek>
+        <fakelag_breaklc>1</fakelag_breaklc>
+        <otr_meh>2</otr_meh>
+        <b_antilby2>29.347824</b_antilby2>
+        <b_antilby>-29.347824</b_antilby>
+        <fakelag_auto>0</fakelag_auto>
+        <otr_keybasedleft>-1</otr_keybasedleft>
+        <otr_keybasedright>-1</otr_keybasedright>
+        <otr_keybasedback>-1</otr_keybasedback>
+        <otr_manualfrontk>-1</otr_manualfrontk>
+        <fakewalk_key>16</fakewalk_key>
+        <plugwalk_key>-1</plugwalk_key>
+        <fakewalk_speed>75.25</fakewalk_speed>
+        <b_lbyr>60</b_lbyr>
+        <b_randlbyr>60</b_randlbyr>
+    </F>
+    <D>
+        <player_espname_color>106 2 252 255</player_espname_color>
+        <player_espbox_color>58 2 252 255</player_espbox_color>
+        <player_espbox_color_team>255 255 255 255</player_espbox_color_team>
+        <player_skeleton_color>255 255 255 255</player_skeleton_color>
+        <player_skeleton_color_team>255 255 255 255</player_skeleton_color_team>
+        <player_glowenemy_color>58 2 252 255</player_glowenemy_color>
+        <player_glowteam_color>75 2 252 255</player_glowteam_color>
+        <player_glowother_color>255 255 255 255</player_glowother_color>
+        <player_glowlocal_color>255 255 255 255</player_glowlocal_color>
+        <player_weapons_color>82 2 252 255</player_weapons_color>
+        <player_weapons_color_team>255 255 255 255</player_weapons_color_team>
+        <player_ammo_color>90 2 252 255</player_ammo_color>
+        <player_ammo_color>90 2 252 255</player_ammo_color>
+        <player_money_color>255 255 255 255</player_money_color>
+        <player_offscreen_color>255 255 255 255</player_offscreen_color>
+        <player_chamslocal_color>61 7 247 255</player_chamslocal_color>
+        <player_chamsEVIS_color>106 4 250 255</player_chamsEVIS_color>
+        <player_chamsENVIS_color>74 2 252 255</player_chamsENVIS_color>
+        <player_ChamsTeamVis>6 115 248 255</player_ChamsTeamVis>
+        <player_beam_color>98 2 252 255</player_beam_color>
+        <scope_c>67 4 250 255</scope_c>
+        <misc_lagcomp>90 2 252 255</misc_lagcomp>
+        <misc_lagcompBones>98 2 252 255</misc_lagcompBones>
+        <weapon_spreadcross_col>255 255 255 255</weapon_spreadcross_col>
+        <handchams_col>66 2 252 255</handchams_col>
+        <gunchams_col>57 0 254 255</gunchams_col>
+        <sky_box_color_enable>1</sky_box_color_enable>
+        <sky_r>2.247191</sky_r>
+        <sky_g>1</sky_g>
+        <sky_b>5.8988767</sky_b>
+        <menu_bar_mode>0</menu_bar_mode>
+        <outlred>55</outlred>
+        <outlgreen>15</outlgreen>
+        <outlblue>210</outlblue>
+        <inlred>185</inlred>
+        <inlgreen>25</inlgreen>
+        <inlblue>230</inlblue>
+        <inrred>185</inrred>
+        <inrgreen>25</inrgreen>
+        <inrblue>230</inrblue>
+        <outrred>55</outrred>
+        <outrgreen>15</outrgreen>
+        <outrblue>210</outrblue>
+        <menu_color>90 2 252 255</menu_color>
+        <lagcompensationyes>1</lagcompensationyes>
+        <spookybonesOwOomg>0</spookybonesOwOomg>
+        <otr_clantg>0</otr_clantg>
+        <quickstop_speed>30</quickstop_speed>
+    </D>
+</Mirror.tk>
